@@ -6,6 +6,11 @@
 ![Node](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=fff)
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahooftv&show_icons=true&theme=react)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Rahooftv&theme=react)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahooftv&layout=compact&theme=react)
+
 <!--
 **Rahooftv/Rahooftv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
