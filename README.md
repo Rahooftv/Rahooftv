@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rahoof</h1>
+
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
