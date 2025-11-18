@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=fff)
+
 <!--
 **Rahooftv/Rahooftv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
